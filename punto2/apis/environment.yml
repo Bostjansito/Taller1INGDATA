@@ -1,0 +1,14 @@
+name: api-football-2022
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - requests
+  - python-dotenv
+  - pandas
+  - pyarrow
+  - jupyterlab
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - nbconvert

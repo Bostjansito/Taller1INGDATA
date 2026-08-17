@@ -1,0 +1,9 @@
+# Entorno y cachés locales del punto 2
+.venv/
+.conda-pkgs/
+.conda-envs/
+.cache/
+.jupyter/
+.ipython/
+.matplotlib/
+

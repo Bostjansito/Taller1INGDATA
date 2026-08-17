@@ -1,0 +1,8 @@
+# Credenciales y archivos locales
+.env
+.ipynb_checkpoints/
+__pycache__/
+
+# La caché evita repetir llamadas, pero puede regenerarse.
+cache/*.json
+
