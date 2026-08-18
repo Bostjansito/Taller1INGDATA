@@ -1,5 +1,7 @@
 # Taller 1 - Ingeniería de Datos
 
+**Hecho por:** Sebastian Perez Zuluaga y Emanuel Quintero Franco
+
 ## Evidencia de creación del entorno virtual
 
 ![Creación del entorno virtual](EntornoCreado.png)
